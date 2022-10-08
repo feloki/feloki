@@ -1,0 +1,3 @@
+👋 Hi, I’m @feloki, just hanging here to post my todo list of projects.
+👀 Uhhh, what to learn? I don't know yet, there are too many rabbit holes to fall in.
+🌱 Projects? Ahhhh, for now build my infrastructure. And then learn ethical hacking. Breaking things for good is pretty fun...
